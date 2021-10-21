@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Time</string>
+    <string name="time">Время</string>
+    <string name="selectTime">Выберите Время</string>
+
+    <string name="selected">Выбрано</string>
+    <string name="canceled">Отказано</string>
+    <string name="previous">Вернулись на шаг назад</string>
+    <string name="closed">Закрыто</string>
+
+
+</resources>
